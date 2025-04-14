@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head> 
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Portfolio</title>
+</head>
+<body>
+
+<nav>
+    <a herf="about">About</a>
+    <a herf="work">Work</a>
+    <a herf="resume">Resume</a>
+    <a herf="contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About me</h2>
+    <p>"Hi i`m chuka a beginner software developer currently learning its basics at gomycode.</p>
+</section>
+
+<section id="work">
+    <h2>I`m currently working at the sun newspaper, as a column writer.</h2>
+</section>
+<section id="resume">
+</section>
+<section id="contact">
+    <h2>Contact Me</h2>
+    <form>
+        <label>Name: <input type="text" name="name" chukwuka obioha </label><br>
+        <label>Email: <input type="email" name="email" chukwukao083@gmail.com</label><br>
+        <label>Message: <textarea name="message"></textarea></label><br>
+        <button type="submit">send</button>
+    </form>
+</section>
+<footer>
+   <p>&copy;2025 chukwuka obioha.</p>
+</footer>
+
+</body>
+</html>
+
+
