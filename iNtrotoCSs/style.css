@@ -1,0 +1,62 @@
+h1{
+    color: red;
+    font-family: roboto;
+    text-align: center;
+}
+ #green-bordered{
+    border: 5px dashed green;
+ }
+  h1,p{
+    border: 1px solid black
+  }
+    .firstitem, .lastitem{
+        font-size: 1.5em
+    }
+    h3,  .red, #redElement{
+        color:red
+    }
+    .box p{
+        color: red;
+    }
+    article > p{
+        font-weight: bold;
+        background-color: #333;
+        color: #fff;
+        padding: .5em;
+    }
+    h1  p{
+        font-weight: bold;
+        background-color: aliceblue;
+        padding: .10em;
+    }
+      h1  p {
+        font-weight: bolder;
+        background-color: darkgreen;
+        color: blue;
+
+      }
+
+      a :link{
+        color:tomato;
+      }
+      a:visited{
+        color:brown;
+      }
+      div:hover {
+        color:orange;
+      }
+      a:active{
+        color:moccasin
+      }
+      h1{
+        color: gold;
+        font-size: 5em;
+        text-align: center;
+        border: 2px solid black;
+        margin-top: 20px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        padding-right: 50px;
+      }
+
+      
